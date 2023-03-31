@@ -14,6 +14,11 @@ Este repositório contém dois exemplos de implementação de sockets em Python,
 - Digite uma mensagem: Olá, servidor!
 - Mensagem enviada para o servidor: Olá, servidor!
 - Resposta do servidor: Resposta do servidor: Olá, servidor!
+
+- [exemplo do resultado](https://user-images.githubusercontent.com/71457360/229209511-49b05faf-ebcd-4e0a-b892-efe041e1e118.PNG)
+
+
+
 # Protocolo UDP
 - O protocolo UDP (User Datagram Protocol) é um protocolo sem conexão e não confiável, utilizado para enviar mensagens curtas com baixa latência.
 
