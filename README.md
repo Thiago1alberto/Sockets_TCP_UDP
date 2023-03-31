@@ -14,9 +14,7 @@ Este repositório contém dois exemplos de implementação de sockets em Python,
 - Digite uma mensagem: Olá, servidor!
 - Mensagem enviada para o servidor: Olá, servidor!
 - Resposta do servidor: Resposta do servidor: Olá, servidor!
-
 - [exemplo do resultado](https://user-images.githubusercontent.com/71457360/229209511-49b05faf-ebcd-4e0a-b892-efe041e1e118.PNG)
-
 
 
 # Protocolo UDP
@@ -32,5 +30,6 @@ Este repositório contém dois exemplos de implementação de sockets em Python,
 - Digite uma mensagem: Olá, servidor!
 - Mensagem enviada para o servidor: Olá, servidor!
 - Resposta do servidor: Resposta do servidor: Olá, servidor!
+ - [exemplo do resultado](https://user-images.githubusercontent.com/71457360/229212732-bd6cc70b-71f4-4eb3-be74-dfe3ec697861.png)
 # Conclusão
 Este repositório apresentou dois exemplos de implementação de sockets em Python utilizando os protocolos TCP e UDP. Ambos os exemplos consistem em um cliente que envia mensagens para um servidor e recebe as respostas correspondentes. A escolha do protocolo a ser utilizado depende das necessidades do projeto em questão. Se é necessário confiabilidade e entrega de pacotes na ordem correta, o protocolo TCP é o mais indicado. Se, por outro lado, a latência é um fator crítico, o protocolo UDP pode ser mais adequado.
